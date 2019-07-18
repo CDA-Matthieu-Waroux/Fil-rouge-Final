@@ -1,0 +1,45 @@
+﻿<Window x:Class="FilRougeMW.View.AjouterUtilisateur"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ViewModel="clr-namespace:FilRougeMW.ViewModel"
+        xmlns:Converter="clr-namespace:FilRougeMW.Converter"
+        xmlns:local="clr-namespace:FilRougeMW.View"
+        mc:Ignorable="d"
+        Title="AjouterUtilisateur" Height="330" Width="350">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="276" Margin="34,33,0,0" VerticalAlignment="Top" Width="278" DataContext="{Binding Source={StaticResource vm}}">
+            <Label Content="Utilisateur"/>
+            <TextBox Height="23" TextWrapping="Wrap" Text="{Binding Login}"/>
+            <Label Content=""/>
+            <Label Content="Mot De Passe"/>
+            <TextBox Height="23" TextWrapping="Wrap" Text="{Binding MotDePasse}"/>
+            <Label Content=""/>
+            <Label Content="Cle Employé"/>
+            <TextBox Height="23" TextWrapping="Wrap" Text="{Binding CleEmploye}"/>
+            <Label Height="23"/>
+            <Button Content="Valider" Margin="23,0,165,0" Command="{Binding CommandAjouter}" RenderTransformOrigin="0.368,3.102"/>
+        </StackPanel>
+        <Button Content="Quitter" HorizontalAlignment="Left" Margin="192,254,0,0" VerticalAlignment="Top" Width="92" Command="{Binding CommandQuitter}"/>
+        <TextBlock  HorizontalAlignment="Left" Margin="112,284,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="15" FontSize="9"><Run Text="Copyright "/><Run Text="© Sans Chauffeur"/></TextBlock>
+        <Menu Height="23" VerticalAlignment="Top">
+            <MenuItem Header="Fichier" Height="25" Width="64">
+                <MenuItem Header="Quitter" Command="{Binding CommandQuitter}" />
+            </MenuItem>
+            <MenuItem Header="Edition" >
+                <MenuItem Header="Ajouter" Command="{Binding CommandAjouter}"/>
+            </MenuItem>
+            <MenuItem Header="Options">
+                <MenuItem Header="à"/>
+                <MenuItem Header="venir"/>
+                <MenuItem Header="prochaine"/>
+                <MenuItem Header="mis"/>
+                <MenuItem Header="à"/>
+                <MenuItem Header="jour"/>
+            </MenuItem>
+            <MenuItem Header="Infos" Command="{Binding CommandOuvrirInfos}" />
+        </Menu>
+
+    </Grid>
+</Window>

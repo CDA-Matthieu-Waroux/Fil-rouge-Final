@@ -1,0 +1,66 @@
+﻿<Window x:Class="FilRougeMW.View.Ajouter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FilRougeMW.View"
+        mc:Ignorable="d"
+        Title="Ajouter" Height="360" Width="550" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Closed="Window_Closed" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="237*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Marque" HorizontalAlignment="Left" Margin="32.805,42,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.784,0.308" Grid.Column="1"/>
+        <Label Content="Carburant" HorizontalAlignment="Left" Margin="32.805,90,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Puissance" HorizontalAlignment="Left" Margin="37.805,138,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Modèle" HorizontalAlignment="Left" Margin="162.805,42,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Catégorie" HorizontalAlignment="Left" Margin="162.805,90,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Année de fabrication" HorizontalAlignment="Left" Margin="144.805,138,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.077,-0.171" Grid.Column="1"/>
+        <Label Content="Couleur" HorizontalAlignment="Left" Margin="318.805,42,0,0" VerticalAlignment="Top" Width="52" RenderTransformOrigin="0.942,0.423" Grid.Column="1"/>
+        <Label Content="Prix" HorizontalAlignment="Left" Margin="318.805,90,0,0" VerticalAlignment="Top" Width="39" RenderTransformOrigin="1.333,6.308" Grid.Column="1"/>
+        <Label Content="Côte Argus" HorizontalAlignment="Left" Margin="307.805,138,0,0" VerticalAlignment="Top" Width="73" Grid.Column="1"/>
+        <Label Content="Places" HorizontalAlignment="Left" Margin="40.805,187,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Button Content="Ajouter" Command="{Binding CommandAjouter}" HorizontalAlignment="Left" Margin="72.805,280,0,0" VerticalAlignment="Top" Width="80" Grid.Column="1"/>
+        <Button Content="Quitter" Command="{Binding CommandQuitter}" HorizontalAlignment="Left" Margin="215.805,280,0,0" VerticalAlignment="Top" Width="80" Grid.Column="1"/>
+        <TextBlock  HorizontalAlignment="Left" Margin="122.805,306,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="15" FontSize="9" Grid.Column="1"><Run Text="Copyright "/><Run Text="© Sans Chauffeur"/></TextBlock>
+        <ComboBox Text="{Binding Marque}" ItemsSource="{Binding Marques}" DisplayMemberPath="NomMarque" SelectedItem="{Binding SelectedMarque}" 
+                  HorizontalAlignment="Left" Margin="6.805,68,0,0" VerticalAlignment="Top" Width="120"  Grid.Column="1"/>
+        <ComboBox Text="{Binding Modele}" ItemsSource="{Binding SelectedMarque.Modeles}" DisplayMemberPath="NomModele" SelectedItem="{Binding SelectedModele}" 
+                  HorizontalAlignment="Left" Margin="144.805,68,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="1" RenderTransformOrigin="0.775,0.727" Grid.Column="1"/>
+        <ComboBox Text="{Binding Couleur}" ItemsSource="{Binding ListeCouleur}" 
+                  HorizontalAlignment="Left" Margin="281.805,68,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.409"  Grid.Column="1"/>
+        <ComboBox Text="{Binding Carburant}" ItemsSource="{Binding ListeCarburant}" HorizontalAlignment="Left" Margin="6.805,116,0,0" VerticalAlignment="Top" Width="120"  Grid.Column="1"/>
+        <ComboBox Text="{Binding Categorie}" ItemsSource="{Binding ListeCategorie}" HorizontalAlignment="Left" 
+                  Margin="144.805,116,0,0" VerticalAlignment="Top" Width="120"  Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="6.805,164,0,0" TextWrapping="Wrap" 
+                 Text="{Binding Puissance}" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="281.805,116,0,0" TextWrapping="Wrap" 
+                 Text="{Binding PrixAchat}" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="6.805,213,0,0" TextWrapping="Wrap" 
+                 Text="{Binding NombrePlace}" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.592,0" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="281.805,164,0,0" TextWrapping="Wrap" 
+                 Text="{Binding CoteArgus}" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <ComboBox  ItemsSource="{Binding ListeAnnee}"  Text="{Binding AnneeFabrication}" 
+                   HorizontalAlignment="Left" Margin="144.805,164,0,0" VerticalAlignment="Top" Width="120" Height="23" RenderTransformOrigin="0.483,0.435" Grid.Column="1"/>
+        <Menu HorizontalAlignment="Left" Height="23" VerticalAlignment="Top" Width="544" Grid.ColumnSpan="2">
+            <MenuItem Header="Fichier" Height="25" Width="64">
+                <MenuItem Header="Quitter" Command="{Binding CommandQuitter}" />
+
+            </MenuItem>
+            <MenuItem Header="Edition">
+                <MenuItem Header="Ajouter" Command="{Binding CommandAjouter}"/>
+            </MenuItem>
+            <MenuItem Header="Options">
+                <MenuItem Header="à"/>
+                <MenuItem Header="venir"/>
+                <MenuItem Header="prochaine"/>
+                <MenuItem Header="mis"/>
+                <MenuItem Header="à"/>
+                <MenuItem Header="jour"/>
+            </MenuItem>
+            <MenuItem Header="Infos" Command="{Binding CommandOuvrirInfos}" />
+        </Menu>
+
+    </Grid>
+</Window>

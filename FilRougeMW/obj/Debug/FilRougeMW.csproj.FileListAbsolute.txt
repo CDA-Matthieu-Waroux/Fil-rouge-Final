@@ -1,0 +1,244 @@
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.csprojAssemblyReference.cache
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\App.g.cs
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.cache
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.lref
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\bin\Debug\FilRougeMW.exe.config
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\bin\Debug\FilRougeMW.exe
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\bin\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.g.resources
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.Properties.Resources.resources
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.csproj.GenerateResource.cache
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.csproj.CoreCompileInputs.cache
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.exe
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\bin\Debug\Google.Protobuf.dll
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\bin\Debug\MySql.Data.dll
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\bin\Debug\Google.Protobuf.xml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\bin\Debug\MySql.Data.xml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\FilRougeMW.csproj.CopyComplete
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\ConfirmationSupprimer.g.cs
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\OptionsModifier.g.cs
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\Modifier.g.cs
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\OptionsPrincipal.g.cs
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\Principal.g.cs
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\Connexion.g.cs
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\ConfirmationSupprimer.baml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\OptionsModifier.baml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\Modifier.baml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\OptionsPrincipal.baml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\Principal.baml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\View\Connexion.baml
+C:\Users\59013-01-02\source\repos\FilRougeMW\FilRougeMW\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe.config
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.dll
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.dll
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.xml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.xml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csprojAssemblyReference.cache
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\App.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.cache
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.lref
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.g.resources
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.Properties.Resources.resources
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.GenerateResource.cache
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CoreCompileInputs.cache
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CopyComplete
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.exe
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe.config
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.pdb
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.dll
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.dll
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.xml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.xml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csprojAssemblyReference.cache
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\App.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.cache
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.lref
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.baml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.baml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.baml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.baml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.baml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.baml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.baml
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.g.resources
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.Properties.Resources.resources
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.GenerateResource.cache
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CopyComplete
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.exe
+C:\Users\Matth\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\AjouterUtilisateur.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\AjouterUtilisateur.baml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.dll
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.Facades.dll
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.XAML.dll
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\JungleControls.dll
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Sodium.dll
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.xml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.XAML.xml
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Infos.g.cs
+C:\Users\59013-01-02\Desktop\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Infos.baml
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe.config
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.pdb
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.dll
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.Facades.dll
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.XAML.dll
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.dll
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\JungleControls.dll
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.dll
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Sodium.dll
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.xml
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.XAML.xml
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.xml
+G:\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.xml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csprojAssemblyReference.cache
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\AjouterUtilisateur.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Infos.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\App.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.cache
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.lref
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\AjouterUtilisateur.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Infos.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.baml
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.g.resources
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.Properties.Resources.resources
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.GenerateResource.cache
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CoreCompileInputs.cache
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CopyComplete
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.exe
+G:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.pdb
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe.config
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.exe
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\FilRougeMW.pdb
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.dll
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.Facades.dll
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.XAML.dll
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.dll
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\JungleControls.dll
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.dll
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Sodium.dll
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.xml
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Assisticant.XAML.xml
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\Google.Protobuf.xml
+F:\TEST FIL ROUGE\FilRougeMW\bin\Debug\MySql.Data.xml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csprojAssemblyReference.cache
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\AjouterUtilisateur.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Infos.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\App.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.cache
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.lref
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Ajouter.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\AjouterUtilisateur.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Connexion.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Infos.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Modifier.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsAjouter.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsModifier.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\OptionsPrincipal.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\View\Principal.baml
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.g.resources
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.Properties.Resources.resources
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.GenerateResource.cache
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CoreCompileInputs.cache
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.csproj.CopyComplete
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.exe
+F:\TEST FIL ROUGE\FilRougeMW\obj\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\FilRougeMW.exe.config
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\FilRougeMW.exe.manifest
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\FilRougeMW.application
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\FilRougeMW.exe
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Assisticant.dll
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Assisticant.Facades.dll
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Assisticant.XAML.dll
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Google.Protobuf.dll
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\JungleControls.dll
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\MySql.Data.dll
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Sodium.dll
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Assisticant.xml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Assisticant.XAML.xml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\Google.Protobuf.xml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\bin\Debug\MySql.Data.xml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Ajouter.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\AjouterUtilisateur.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Connexion.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Infos.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Modifier.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\OptionsAjouter.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\OptionsModifier.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\OptionsPrincipal.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Principal.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\App.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.cache
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW_MarkupCompile.lref
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Ajouter.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\AjouterUtilisateur.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Connexion.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Infos.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Modifier.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\OptionsAjouter.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\OptionsModifier.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\OptionsPrincipal.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\View\Principal.baml
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.g.resources
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.Properties.Resources.resources
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.csproj.GenerateResource.cache
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.csproj.CoreCompileInputs.cache
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.exe.manifest
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.application
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.csproj.CopyComplete
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.exe
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.pdb
+C:\Users\59013-01-02\Desktop\Fil rouge Final\FilRougeMW\obj\Debug\FilRougeMW.csprojAssemblyReference.cache

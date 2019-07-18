@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="FilRougeMW.exe" version="1.0.0.0" publicKeyToken="eb819a3db3f5151f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icone.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FilRougeMW" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FilRougeMW.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options du manifeste de contrôle de compte d’utilisateur (UAC)
+          Si vous voulez changer le niveau de contrôle de compte d’utilisateur Windows, remplacez le 
+          nœud requestedExecutionLevel par l’un des nœuds suivants.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si vous voulez utiliser la virtualisation de fichiers système et du Registre pour la 
+         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Assisticant.dll" size="69120">
+      <assemblyIdentity name="Assisticant" version="2.3.0.0" publicKeyToken="19E83A8289E31A8F" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8YdJqbO5lxRlWPHP+b8ksyY2GQY3//9c1Eo9+OWM6ks=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Assisticant.Facades.dll" size="14336">
+      <assemblyIdentity name="Assisticant.Facades" version="1.1.0.0" publicKeyToken="8693A7693E4D4E55" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4gneDA5NkjymrE0z06JmzUkGTR52pXkkLviFCk+OrS4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Assisticant.XAML.dll" size="27136">
+      <assemblyIdentity name="Assisticant.XAML" version="2.3.0.0" publicKeyToken="19E83A8289E31A8F" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>NoeJszNeAKpaYD6oNqpCTPE51jwuj/3rdNnAZ7lGcNA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FilRougeMW.exe" size="1091544">
+      <assemblyIdentity name="FilRougeMW" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RCHWpKkCvc4EsmjPeIdjAd/2UH8kOTWWukaliLkdi4w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.Protobuf.dll" size="298496">
+      <assemblyIdentity name="Google.Protobuf" version="3.6.0.0" publicKeyToken="A7D26565BAC4D604" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nF2P+zA7iWmoDSRRo+nSdCKmo1UDc+gCXD5djt1CGdA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JungleControls.dll" size="55808">
+      <assemblyIdentity name="JungleControls" version="1.8.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xtR/usnGpoDr2v7GK3R/TISbIECeHdv277mvCRPHG3o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="698368">
+      <assemblyIdentity name="MySql.Data" version="8.0.12.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>o1A1TiMHyyY2HLODhWlzi01juSSiEk3jKsgc9fnbhpo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sodium.dll" size="61368">
+      <assemblyIdentity name="Sodium" version="0.10.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>v1sCrFFum2IIZkn0OikofHhyu9uHUS6dXsG+aBx3qUo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FilRougeMW.exe.config" size="542">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Mjmuk/73j4hulCfL9qtNZewvMWmw1JZZ0TRY+O+CaOY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icone.ico" size="156350">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>m1Z4vuAyHUxP/1Sp5m1yrxRO3gvKKmkh3PNsSfsxca8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=EXCHANGE\59013-01-02" issuerKeyHash="a56c976d024a03a34b20684aa5f0f095d7e94cba" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LL5+X28ULq60ZTlrdFiWxem0RMqQuRXZbUIWBZdH2Ik=</DigestValue></Reference></SignedInfo><SignatureValue>RX0svKX0qyKjdwoFmGJjM1JpsitVZEHIO6LVVzVL8/TEoYsPHfZLWZdv3YCiNCaLLarjG0CsCgf8zTRwxC0d4ut3vBEJucFag08V0/H2nFuugLYbyYevsz6mWVnfvNzRifBCKl2zYOgs2U8kwxwr3p/ojZgWhzpVJZ/oW4+AL2U=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ncQ00yIjhofDX+UkvxKGsO3A03ktGavC7xxYaZIsVFn1IRK7baQZDhqy6bJVFDm9fksezTuBCokZoBdLccY1pFp3T2Eyc38fJeCJwvZMwWVYHISAOaHY5L8U/7+htROJYXasmDGCv8srmLgYyljwT30bD5V1NbS5jvq2jvT8rqE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="89d847970516426dd915b990ca44b4e9c59658746b3965b4ae2e146f5f7ebe2c" Description="" Url=""><as:assemblyIdentity name="FilRougeMW.exe" version="1.0.0.0" publicKeyToken="eb819a3db3f5151f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EXCHANGE\59013-01-02</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PP83M4VNouTzzJVOv7AtTTnZgnNOyLy7+gub6CQYE7U=</DigestValue></Reference></SignedInfo><SignatureValue>idwOTsqHIs5k04UDFdgXFS6qsfo0aeo2y2mpleOoWPdI1yy5hNdv7dO9C+fqHFvovBO/pks2ySS16hIu7kCf3geDD2MYzzck8cN5UrKMjA7h/OSRiIk6WFxKmdCnjFhoM/TZE7p0qvR309GZNXbfjq2m7yvtGmwkOddF3OtXhw0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ncQ00yIjhofDX+UkvxKGsO3A03ktGavC7xxYaZIsVFn1IRK7baQZDhqy6bJVFDm9fksezTuBCokZoBdLccY1pFp3T2Eyc38fJeCJwvZMwWVYHISAOaHY5L8U/7+htROJYXasmDGCv8srmLgYyljwT30bD5V1NbS5jvq2jvT8rqE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQLjcA9bsN77VBUx1IVfUjazANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARQBYAEMASABBAE4ARwBFAFwANQA5ADAAMQAzAC0AMAAxAC0AMAAyMB4XDTE4MDgyMjA2MjQyMloXDTE5MDgyMjEyMjQyMlowMzExMC8GA1UEAx4oAEUAWABDAEgAQQBOAEcARQBcADUAOQAwADEAMwAtADAAMQAtADAAMjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAncQ00yIjhofDX+UkvxKGsO3A03ktGavC7xxYaZIsVFn1IRK7baQZDhqy6bJVFDm9fksezTuBCokZoBdLccY1pFp3T2Eyc38fJeCJwvZMwWVYHISAOaHY5L8U/7+htROJYXasmDGCv8srmLgYyljwT30bD5V1NbS5jvq2jvT8rqECAwEAATANBgkqhkiG9w0BAQsFAAOBgQAyj7EAiR+JRVwuT0ZpD5kwdIp0+u09mbBcF17NTNolgE1ehYXXAOdsJ3mU+9BUU4uqYqJZlWWdqJG19YzfIxVpGoz6hbCHMWzkx0ZJ2GVwi+2SVcNbt+TZF2Bslgu1Qeb970rbtnUaSYXueIAlK2W8vknrc2Gc+1QH8A1zLnHuiA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
